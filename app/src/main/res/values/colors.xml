@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="colorPrimary">#3F51B5</color>
+	<color name="colorPrimaryDark">#303F9F</color>
+	<color name="colorAccent">#FF4081</color>
+	FF4081
+	<color name="textColorPrimary">#fff</color>
+	<color name="error_color">#00C853</color>
+    <color name="error_color2">#06f6f6</color>
+    <color name="control_activated">#0690f0</color>
+    <color name="control_normal">#646161</color>
+</resources>
